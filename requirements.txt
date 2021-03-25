@@ -26,7 +26,7 @@ Pygments==2.6.1
 pylint==2.4.4
 pyparsing==2.4.7
 pytest==5.4.1
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.14.0
 sqlfluff==0.3.1
 typed-ast==1.4.1
